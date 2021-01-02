@@ -1,4 +1,4 @@
-# Sarcasm_detector_using_TensorFlow
+# Sarcasm_detector using TensorFlow
 
 ## Overview
 This was a project I did to learn how to develop neural networks using TensorFlow. <br>
